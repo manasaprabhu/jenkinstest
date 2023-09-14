@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 66C5-B39B
+
+ Directory of C:\Users\manas\OneDrive\Desktop\java
+
+14-09-2023  01:28 PM    <DIR>          .
+14-09-2023  01:14 PM    <DIR>          ..
+08-09-2023  10:39 AM               479 helloworld.class
+08-09-2023  10:39 AM               136 helloworld.java
+14-09-2023  01:28 PM                 0 read.txt
+               3 File(s)            615 bytes
+               2 Dir(s)  38,681,272,320 bytes free
